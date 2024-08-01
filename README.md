@@ -53,7 +53,11 @@ I hold a degree in Human Science with a focus on data analytics.
 - **Project Name**: [Project Title](link-to-project)
 - **Description**: Brief description of what the project does and its key features.
 - **Technologies Used**: List the tools and concepts used in the project. 
-### Excel Modelling- **Project Name**: [Project Title](link-to-project)  - **Description**: Brief description of what the project does and its key features.  - **Technologies Used**: List the functions and techniques used in the project.
+### Excel Modelling
+- **Project Name**: [Project Title](link-to-project)
+- **Description**: Brief description of what the project does and its key features.
+- **Technologies Used**: List the functions and techniques used in the project.
+
 ### Skills
 
 
