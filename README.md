@@ -23,7 +23,7 @@ I hold a degree in Human Science with a focus on data analytics.
 * 🌍  I'm based in London
 * ✉️  You can contact me at [)
 * 🧠  I'm learning R, Pandas
-* 🤝  I'm open to collaborating on Health Economics, Healthcare projects
+* 🤝  I'm open to collaborating on Retail, Fahion Analytics
 
 ### Skills
 
