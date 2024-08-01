@@ -9,7 +9,7 @@ Data Analyst | Fashion Enthusiast | Lifelong Learner
 
 **About Me** 🎓 
 
-I hold a degree in Himan Science with a focus on data analytics. 
+I hold a degree in Human Science with a focus on data analytics. 
 📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
 🌐 Curious about web scraping and API integration. 
@@ -18,11 +18,10 @@ I hold a degree in Himan Science with a focus on data analytics.
 
 1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
    
-3. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
-4. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
+2. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [training.justit@gmail.com](mailto:training.justit@gmail.com)
+* ✉️  You can contact me at [)
 * 🧠  I'm learning R, Pandas
 * 🤝  I'm open to collaborating on Health Economics, Healthcare projects
 
